@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Model.qml</file>
+        <file>BackGround.qml</file>
+        <file>ModelForwardRenderer.qml</file>
+        <file>BasicCamera.qml</file>
+        <file>Scene.qml</file>
+        <file>Wave.qml</file>
+        <file>WaveEffect.qml</file>
+        <file>WaveMaterial.qml</file>
+        <file>BackGroundEffect.qml</file>
+        <file>BackGroundMaterial.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>models/waterPlane.obj</file>
+        <file>models/demon_head.3ds</file>
+        <file>models/IronMan.obj</file>
+        <file>models/nanosuit.obj</file>
+    </qresource>
+</RCC>
